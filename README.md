@@ -1,4 +1,7 @@
 My Work
+
+
+
 This is merely an assignment on multimodal document parsing completed by a freshman who has never been exposed to programming, using the power of large models. Criticism and corrections from experienced individuals are warmly welcomed.
 
 
