@@ -1,2 +1,2 @@
 # First-resitory
-Wuhan University Multimodal Document Analysis
+Multimodal document analysis of Wuhan University student assignments
